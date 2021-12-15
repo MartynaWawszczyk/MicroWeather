@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MicroWeather</string>
+    <string name="error_occured">Wystąpił błąd</string>
+    <string name="error_con">Wystąpił błąd podczas łączenia</string>
+</resources>
